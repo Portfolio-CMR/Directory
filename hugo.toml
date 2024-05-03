@@ -1,4 +1,4 @@
-baseURL = 'https://data-dialogue.github.io/Directory/'
+baseURL = 'https://Portfolio-CMR.github.io/Directory/'
 languageCode = 'en-us'
 title = 'Directory'
 theme = 'data_portfolio'
@@ -7,7 +7,7 @@ theme = 'data_portfolio'
 [[menu.shortcuts]]
     identifier = 'ds'
     name = "<i class='fab fa-fw fa-github'></i> GitHub"
-    url = 'https://github.com/data-dialogue/'
+    url = 'https://github.com/Portfolio-CMR/'
     weight = 10
 
 [[menu.shortcuts]]
