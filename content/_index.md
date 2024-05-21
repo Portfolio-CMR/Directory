@@ -4,10 +4,14 @@ title = "Colton Robbins Data Portfolio"
 weight = 1
 +++
 
-## Links to projects:
+![Profile](/Directory/images/profile.jpg?width=15vw&lightbox=false)
 
-**Note**: One page per project as a quick summary of content and skills.
+## Links to projects:
 
 ### [Personal Google Data Analytics Viewer](google_analytics)
 
-[![Google Analytics Project Thumbnail](/Directory/images/Dashboard_example.jpg?width=20vw&lightbox=false)](google_analytics)
+[![Google Analytics Project Thumbnail](/Directory/images/Dashboard_example.jpg?width=40vw&lightbox=false)](google_analytics)
+
+### [Catchafire data analytics volunteer record](catchafire)
+
+[![catchafire logo](/Directory/images/catchafire_logo.jpg?width=40vw&lightbox=false)](catchafire)

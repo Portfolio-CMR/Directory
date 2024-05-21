@@ -1,13 +1,14 @@
 +++
 linkTitle = ''
 title = 'Personal Google Analytics Viewer'
+weight = 1
 +++
 
 [Back to Projects](/)
 
-![Example Dashboard](/Directory/images/Dashboard_example.jpg)
+![Example Dashboard](/Directory/images/Dashboard_example.jpg?height=300px)
 
-## Self Stats - Google Takeout Data Insights Visualizer 📊
+## [Self Stats - Google Takeout Data Insights Visualizer](https://github.com/Portfolio-CMR/Personal-analytics-visualizer) 📊
 
 This Python package revolutionizes how you interact with your personal Google Analytics data extracted via Google Takeout. By offering eye-catching, interactive visualizations, this tool helps you gain deep insights into your digital footprint with Google services. Whether you're a data enthusiast or simply curious about your online habits, this tool provides valuable perspectives into your personal analytics data.
 
