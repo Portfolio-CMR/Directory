@@ -1,4 +1,4 @@
-baseURL = 'https://portfolio-cmr.github.io/Directory/'
+baseURL = 'https://Portfolio-CMR.github.io/Directory/'
 languageCode = 'en-us'
 title = 'Directory'
 theme = 'data_portfolio'
