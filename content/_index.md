@@ -31,9 +31,9 @@ weight = 1
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="border: none;">
-      Fully automated package<br>
-      to gain insights into your<br>
-      online usage<br>
+      Fully automated end-to-end<br>
+      package to gain insights<br>
+      into your online usage<br>
       <br>
       - Data cleaning<br>
       - Keyword extraction<br>
