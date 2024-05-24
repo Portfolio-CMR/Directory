@@ -47,6 +47,7 @@ weight = 1
   </tr>
 </table>
 
+-------------------------------------------------------
 {{% center %}}
 ### [Catchafire Volunteer Record](catchafire)
 {{% /center %}}

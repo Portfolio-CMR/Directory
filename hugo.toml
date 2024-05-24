@@ -10,16 +10,16 @@ theme = 'data_portfolio'
     weight = 10
 [[menu.shortcuts]]
     name = "<i class='fas fa-file-pdf'></i> Resume"
-    url = '/Directory/images/Robbins_resume_data.pdf'
+    url = 'resume.md'
     weight = 20
 [[menu.shortcuts]]
     name = "<i class='fab fa-fw fa-linkedin'></i> LinkedIn"
     url = 'https://www.linkedin.com/in/colton-robbins73/'
     weight = 30
-[[menu.shortcuts]]
-    name = "<i class='fas fa-envelope'></i> Email"
-    url = 'mailto:coltonrobbins73@gmail.com'
-    weight = 40
+# [[menu.shortcuts]]
+#     name = "<i class='fas fa-envelope'></i> Email"
+#     url = 'coltonrobbins73@gmail.com'
+#     weight = 40
 
 
 [markup]
