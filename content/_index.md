@@ -52,11 +52,10 @@ weight = 1
   </tr>
 </table>
 
-
 ---------------------------------------------------
 
 {{% center %}}
-### [WHO Life Expectancy Dashboard](https://public.tableau.com/app/profile/colton.robbins/viz/WHOlifeexpectancy/WHOLifeexpectancy?publish=yes)
+### [WHO Life Expectancy Dashboard](https://portfolio-cmr.github.io/WHO_Life_Expectancy_Dash/)
 {{% /center %}}
 
 <table style="border: none; border-collapse: collapse;">
