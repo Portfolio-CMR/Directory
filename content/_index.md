@@ -9,10 +9,14 @@ weight = 1
     <td style="border: none;">
       Research scientist<br>
       Turned data analyst<br>
-      Based in Snohomish, WA
+      <br>
+      <br>
+      Passionate about leveraging data<br>
+      to drive insights and innovation<br>
+      Skilled in Python, R, SQL, and cloud computing<br>
     </td>
     <td style="border: none;">
-      <img src="/Directory/images/profile.jpg?width=10vw&lightbox=false" alt="Profile" style="width: 300px">
+      <img src="/Directory/images/profile.jpg?width=10vw&lightbox=false" alt="Profile" style="width: 400px">
     </td>
   </tr>
 </table>
@@ -35,6 +39,7 @@ weight = 1
       package to gain insights<br>
       into your online usage<br>
       <br>
+      <br>
       - Data cleaning<br>
       - Keyword extraction<br>
       - Data imputation<br>
@@ -56,6 +61,7 @@ weight = 1
   <tr>
     <td style="border: none;">
       Data analysis volunteer network<br>
+      <br>
       <br>
       - Data analysis workshops<br>
       - Data cleaning and preparation<br>
