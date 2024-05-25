@@ -11,9 +11,9 @@ weight = 1
       Turned data analyst<br>
       <br>
       <br>
-      Passionate about leveraging data<br>
-      to drive insights and innovation<br>
-      Skilled in Python, R, SQL, and cloud computing<br>
+      - Passionate about data-driven decisions<br>
+      - Committed to lifelong learning<br>
+      - Skilled in Python, R, SQL, and cloud computing<br>
     </td>
     <td style="border: none;">
       <img src="/Directory/images/profile.jpg?width=10vw&lightbox=false" alt="Profile" style="width: 400px">
@@ -44,7 +44,7 @@ weight = 1
       - Keyword extraction<br>
       - Data imputation<br>
       - Automation<br>
-      - Visualization
+      - Looker Studio
     </td>
     <td style="border: none;">
       <img src="/Directory/images/Dashboard_example.jpg" alt="Dashboard_example" style="height: 300px">
@@ -52,7 +52,31 @@ weight = 1
   </tr>
 </table>
 
--------------------------------------------------------
+---------------------------------------------------
+
+{{% center %}}
+### [WHO Life Expectancy Dashboard](https://public.tableau.com/app/profile/colton.robbins/viz/WHOlifeexpectancy/WHOLifeexpectancy?publish=yes)
+{{% /center %}}
+
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="border: none;">
+      Life Expectancy by Country<br>
+      <br>
+      <br>
+      - Data ingestion and cleaning<br>
+      - Regression analysis<br>
+      - Tableau visualization<br>
+      - Machine Learning<br>
+      - Story building
+    </td>
+    <td style="border: none;">
+      <img src="/Directory/images/who_dash.png?width=40vw&lightbox=false" alt="who_dash" style="height: 350px">
+    </td>
+  </tr>
+</table>
+
+---------------------------------------------------
 {{% center %}}
 ### [Catchafire Volunteer Record](catchafire)
 {{% /center %}}
