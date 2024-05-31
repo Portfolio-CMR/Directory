@@ -10,13 +10,12 @@ weight = 1
       Research scientist<br>
       Turned data analyst<br>
       <br>
-      <br>
       - Passionate about data-driven decisions<br>
       - Committed to lifelong learning<br>
       - Skilled in Python, R, SQL, and cloud computing<br>
     </td>
     <td style="border: none;">
-      <img src="/Directory/images/profile.jpg?width=10vw&lightbox=false" alt="Profile" style="width: 400px">
+      <img src="/Directory/images/profile.jpg?width=10vw&lightbox=false" alt="Profile" style="width: 100%">
     </td>
   </tr>
 </table>
@@ -35,11 +34,6 @@ weight = 1
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="border: none;">
-      Fully automated end-to-end<br>
-      package to gain insights<br>
-      into your online usage<br>
-      <br>
-      <br>
       - Ingesting semi-structured data<br>
       - Data cleaning<br>
       - Keyword extraction<br>
@@ -48,7 +42,7 @@ weight = 1
       - Looker Studio
     </td>
     <td style="border: none;">
-      <img src="/Directory/images/Dashboard_example.jpg" alt="Dashboard_example" style="height: 300px">
+      <img src="/Directory/images/Dashboard_example.jpg" alt="Dashboard_example" style="width: 100%">
     </td>
   </tr>
 </table>
@@ -62,9 +56,6 @@ weight = 1
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="border: none;">
-      Life Expectancy by Country<br>
-      <br>
-      <br>
       - Data ingestion and cleaning<br>
       - Regression analysis<br>
       - Tableau visualization<br>
@@ -72,7 +63,7 @@ weight = 1
       - Story building
     </td>
     <td style="border: none;">
-      <img src="/Directory/images/who_dash.png?width=40vw&lightbox=false" alt="who_dash" style="height: 350px">
+      <img src="/Directory/images/who_dash.png?width=40vw&lightbox=false" alt="who_dash" style="width: 100%">
     </td>
   </tr>
 </table>
@@ -81,24 +72,20 @@ weight = 1
 
 
 {{% center %}}
-### [AWS End-to-End Data Pipeline](https://portfolio-cmr.github.io/AWS_data_pipe/)
+### [AWS End-to-End Data Pipeline](https://portfolio-cmr.github.io/AWS_Data_Pipe/)
 {{% /center %}}
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="border: none;">
-      Ingesting, processing, and presenting data<br>
-      <br>
-      <br>
       - AWS Glue: Extract transform load (ETL)<br>
       - AWS Storage: S3 buckets<br>
       - AWS Athena: SQL query<br>
       - AWS Quicksight: Data viz<br>
       - Data integrity and validation<br>
-      - Story building
     </td>
     <td style="border: none;">
-      <img src="/Directory/images/aws_data_pipe.png?width=40vw&lightbox=false" alt="aws pipe" style="height: 350px">
+      <img src="/Directory/images/aws_data_pipe.png?width=40vw&lightbox=false" alt="aws pipe" style="width: 100%">
     </td>
   </tr>
 </table>
@@ -111,9 +98,6 @@ weight = 1
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="border: none;">
-      Data analysis volunteer network<br>
-      <br>
-      <br>
       - Data analysis workshops<br>
       - Data cleaning and preparation<br>
       - Data visualization<br>
@@ -121,7 +105,7 @@ weight = 1
       - Impact reporting
     </td>
     <td style="border: none;">
-      <img src="/Directory/images/catchafire_logo.jpg?width=40vw&lightbox=false" alt="catchafire_logo" style="height: 200px">
+      <img src="/Directory/images/catchafire_logo.jpg?width=40vw&lightbox=false" alt="catchafire_logo" style="wodth: 100%">
     </td>
   </tr>
 </table>
