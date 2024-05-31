@@ -40,6 +40,7 @@ weight = 1
       into your online usage<br>
       <br>
       <br>
+      - Ingesting semi-structured data<br>
       - Data cleaning<br>
       - Keyword extraction<br>
       - Data imputation<br>
