@@ -105,8 +105,27 @@ weight = 1
       - Impact reporting
     </td>
     <td style="border: none;">
-      <img src="/Directory/images/catchafire_logo.jpg?width=40vw&lightbox=false" alt="catchafire_logo" style="wodth: 100%">
+      <img src="/Directory/images/catchafire_logo.jpg?width=40vw&lightbox=false" alt="catchafire_logo" style="width: 100%">
     </td>
   </tr>
 </table>
 
+---------------------------------------------------
+{{% center %}}
+### [Github Profile](https://github.com/coltonrobbins73)
+{{% /center %}}
+
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="border: none;">
+      - 40 different repos across all orgs<br>
+      - Open-source collaboration<br>
+      - HTML Web development<br>
+      - Python scripting<br>
+      - Bash scripting
+    </td>
+    <td style="border: none;">
+      <img src="/Directory/images/github_contributions.jpg?width=40vw&lightbox=false" alt="github_contributions" style="width: 100%">
+    </td>
+  </tr>
+</table>
