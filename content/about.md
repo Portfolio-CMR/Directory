@@ -17,7 +17,7 @@ Hi, I'm Colton.  I translate the language of data into actionable strategies.  W
 ### My City
 {{% /center %}}
 
-![Seattle](/Directory/images/Seattle.jpg?shadow=false)
+![Seattle](/Directory/images/Seattle.jpg?shadow=false&width=100%)
 
 ------------------------------------------------------
 {{% center %}}
@@ -37,7 +37,7 @@ Hi, I'm Colton.  I translate the language of data into actionable strategies.  W
       - Bottom Middle: Mela (4 yrs)<br>
     </td>
     <td style="border: none;">
-      <img src="/Directory/images/dogs.jpg" alt="dogs" style="height: 550px">
+      <img src="/Directory/images/dogs.jpg" alt="dogs" style="width: 100%; max-width: 400px">
     </td>
   </tr>
 </table>
@@ -68,7 +68,7 @@ Hi, I'm Colton.  I translate the language of data into actionable strategies.  W
       landscape was exhilarating.
     </td>
     <td style="border: none;">
-      <img src="/Directory/images/running.jpg" alt="running" style="height: 550px">
+      <img src="/Directory/images/running.jpg" alt="running" style="width: 100%">
     </td>
   </tr>
 </table>
