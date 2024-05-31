@@ -78,6 +78,32 @@ weight = 1
 </table>
 
 ---------------------------------------------------
+
+
+{{% center %}}
+### [AWS End-to-End Data Pipeline](https://portfolio-cmr.github.io/AWS_data_pipe/)
+{{% /center %}}
+
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="border: none;">
+      Ingesting, processing, and presenting data<br>
+      <br>
+      <br>
+      - AWS Glue: Extract transform load (ETL)<br>
+      - AWS Storage: S3 buckets<br>
+      - AWS Athena: SQL query<br>
+      - AWS Quicksight: Data viz<br>
+      - Data integrity and validation<br>
+      - Story building
+    </td>
+    <td style="border: none;">
+      <img src="/Directory/images/aws_data_pipe.png?width=40vw&lightbox=false" alt="aws pipe" style="height: 350px">
+    </td>
+  </tr>
+</table>
+
+---------------------------------------------------
 {{% center %}}
 ### [Catchafire Volunteer Record](catchafire)
 {{% /center %}}
