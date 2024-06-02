@@ -91,6 +91,28 @@ weight = 1
 </table>
 
 ---------------------------------------------------
+
+
+{{% center %}}
+### [Agentive AI Applications](https://portfolio-cmr.github.io/Agentive_AI_Applications/)
+{{% /center %}}
+
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="border: none;">
+      - Agentive AI framework<br>
+      - Prompt engineering<br>
+      - AI pipeline integration<br>
+      - Data integration<br>
+    </td>
+    <td style="border: none;">
+      <img src="/Directory/images/ai_splash.png?width=40vw&lightbox=false" alt="ai_splash" style="width: 100%">
+    </td>
+  </tr>
+</table>
+
+---------------------------------------------------
+
 {{% center %}}
 ### [Catchafire Volunteer Record](catchafire)
 {{% /center %}}
