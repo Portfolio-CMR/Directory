@@ -28,7 +28,7 @@ weight = 1
 {{% /center %}}
 
 {{% center %}}
-### [Google Analytics Dashboard](https://portfolio-cmr.github.io/Google_Analytics_Viewer/)
+### [Google Analytics Dashboard](https://portfolio-cmr.github.imo/Google_Analytics_Viewer/)
 {{% /center %}}
 
 <table style="border: none; border-collapse: collapse;">
@@ -106,7 +106,7 @@ weight = 1
       - Data integration<br>
     </td>
     <td style="border: none;">
-      <img src="/Directory/images/ai_splash.png?width=40vw&lightbox=false" alt="ai_splash" style="width: 100%">
+      <img src="/Directory/images/ai_splash.png?width=40vw&lightbox=false" alt="ai_splash" style="width: 100%; max-width: 600px">
     </td>
   </tr>
 </table>
