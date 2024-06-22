@@ -11,7 +11,6 @@ weight = 1
       Turned data analyst<br>
       <br>
       - Passionate about data-driven decisions<br>
-      - Committed to lifelong learning<br>
       - Skilled in Python, R, SQL, and cloud computing<br>
     </td>
     <td style="border: none;">
@@ -141,7 +140,7 @@ weight = 1
   <tr>
     <td style="border: none;">
       - 40 different repos across all orgs<br>
-      - Open-source collaboration<br>
+      - 500+ contributions in under 6 months<br>
       - HTML Web development<br>
       - Python scripting<br>
       - Bash scripting
