@@ -139,8 +139,8 @@ weight = 1
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="border: none;">
-      - 40 different repos across all orgs<br>
       - 500+ contributions in under 6 months<br>
+      - 40 different repos across all orgs<br>
       - HTML Web development<br>
       - Python scripting<br>
       - Bash scripting
