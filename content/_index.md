@@ -103,6 +103,7 @@ weight = 1
       - Prompt engineering<br>
       - AI pipeline integration<br>
       - Data integration<br>
+      - Terraform cloud requisition<br>
     </td>
     <td style="border: none;">
       <img src="/Directory/images/ai_splash.png?width=40vw&lightbox=false" alt="ai_splash" style="width: 100%; max-width: 600px">
